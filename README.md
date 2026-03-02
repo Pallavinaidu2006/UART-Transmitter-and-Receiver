@@ -37,10 +37,9 @@
 
 ## Simulation
 
-Simulation testbenches are available in the `sim/` folder:  
-- `tb_transmitter.v` – tests the transmitter module  
-- `tb_receiver.v` – tests the receiver module  
-- `tb_top.v` – end-to-end simulation of top-level module  
+Simulation testbenches are available:  
+- `transmitter_tb.v` – tests the transmitter module.
+- Block diagram and implementation image are given.
 
 Run the simulation in Vivado or any Verilog simulator and view `.vcd` waveforms in `results/`.  
 
